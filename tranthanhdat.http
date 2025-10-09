@@ -1,0 +1,6 @@
+@tranthanhdat_HostAddress = http://localhost:5216
+
+GET {{tranthanhdat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
