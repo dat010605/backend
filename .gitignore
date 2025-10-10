@@ -1,0 +1,25 @@
+# Mọi thứ trong thư mục bin và obj
+[Bb]in/
+[Oo]bj/
+
+# Files được tạo tự động
+*.user
+*.suo
+
+# Khóa và chứng chỉ
+*.pfx
+*.cer
+*.snk
+
+# Logs
+*.log
+
+# Thư mục tạm
+**/Debug/
+**/Release/
+
+# Loại bỏ file solution/project tạm thời của VS
+*.vspscc
+*.vsscc
+*.vssscc
+*.bak
