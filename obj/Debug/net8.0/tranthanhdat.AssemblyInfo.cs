@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tranthanhdat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70b9a5cf336e59d70fc39530ad188ece30566398")]
 [assembly: System.Reflection.AssemblyProductAttribute("tranthanhdat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tranthanhdat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

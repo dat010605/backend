@@ -31,3 +31,4 @@ D:\tranthanhdat\obj\Debug\net8.0\refint\tranthanhdat.dll
 D:\tranthanhdat\obj\Debug\net8.0\tranthanhdat.pdb
 D:\tranthanhdat\obj\Debug\net8.0\tranthanhdat.genruntimeconfig.cache
 D:\tranthanhdat\obj\Debug\net8.0\ref\tranthanhdat.dll
+D:\tranthanhdat\obj\Debug\net8.0\tranthanhdat.sourcelink.json
